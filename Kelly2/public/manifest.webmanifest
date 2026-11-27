@@ -1,0 +1,18 @@
+{
+  "id": "/",
+  "name": "Kelly — Personal Assistant",
+  "short_name": "Kelly",
+  "description": "Your personal voice-first calendar assistant.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#090e1b",
+  "theme_color": "#090e1b",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {"src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
